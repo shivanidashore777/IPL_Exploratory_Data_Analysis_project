@@ -10,7 +10,7 @@ p2 = pd.read_csv('orange_cap.csv', index_col='Unnamed: 0')
 p2.drop(['Ball Faced'], inplace=True, axis=1)
 p3 = pd.read_excel('purplecap.xlsx')
 data7 = pd.read_csv('ipl_matches.csv')
-data6 = pd.read_csv('ipl_info.csv')
+data6 = pd.read_csv('mat_info.csv')
 
 # Heading
 st.subheader("Game of Analytics: Cricketing Insights from IPL")
