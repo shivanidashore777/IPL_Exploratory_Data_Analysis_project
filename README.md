@@ -1,5 +1,7 @@
 # IPL_Exploratory_Data_Analysis_project
 The IPL EDA (Exploratory Data Analysis) was conducted, revealing valuable insights. The analysis focused on various aspects such as player performance, team statistics, and match outcomes. Key findings include trends in run-scoring, top performers, and team dynamics. The EDA offers actionable insights for teams and fans to make data-driven decision
+
+
 🔍 Step 1: Data Scraping 🌐
 Scraped IPL data from the website using Beautiful Soup library, extracting valuable information for analysis.
 
